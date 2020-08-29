@@ -154,13 +154,12 @@ a#tribute-link {
   font-size: 14pt;
   color: #000;
   text-decoration: none;
-  transition: color .7s, font-size .7s;
+  transition: color .4s;
 }
 
 a#tribute-link:hover {
   color: #FFF;
-  font-size: 18pt;
-  transition: color .7s, font-size .7s;
+  transition: color .4s;
   cursor: pointer;
 } 
 
